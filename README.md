@@ -1,6 +1,6 @@
-# mobius_browser
+# Mobius Browser
 
-A new Flutter project.
+Mobius web browser is easy user design focused mobile browser that can work on both mobile platforms. User can navigate between tabs without get lost in complex user design and search through the internet with many different search engine. Also user can customize the browser with own favorite web pages and search engine. 
 
 ## Getting Started
 
