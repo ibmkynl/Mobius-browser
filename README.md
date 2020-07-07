@@ -6,6 +6,8 @@ Mobius web browser is easy user design focused mobile browser that can work on b
 
 ![Mobius-browser](https://github.com/ibmkynl/Mobius-browser/blob/master/WhatsApp%20Image%202020-04-25%20at%2019.38.16%20(1).jpeg)
 ![Mobius-browser](https://github.com/ibmkynl/Mobius-browser/blob/master/WhatsApp%20Image%202020-04-25%20at%2019.38.16.jpeg)
+![Mobius-browser](https://github.com/ibmkynl/Mobius-browser/blob/master/image.png)
+![Mobius-browser](https://github.com/ibmkynl/Mobius-browser/blob/master/mobius.jpg)
 
 ## Getting Started
 
